@@ -97,14 +97,14 @@ p{
     display: inline-block;
     border-radius:20px;
     margin-left:-24px;
-    margin-right:7px;
+    margin-right:10px;
 }
 .mobile-glass{
-    width:220px;
+    width:200px;
     height:193px;
     border-radius:20px;
     display:inline;
-    margin-right:20px;
+    margin-right:24px;
 
 }
 
